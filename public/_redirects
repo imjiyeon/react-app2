@@ -1,0 +1,2 @@
+/api/* http://52.78.3.130/:splat 200
+/* /index.html 200
